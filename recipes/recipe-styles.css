@@ -1,0 +1,32 @@
+.first.heading{ 
+    text-decoration: overline;
+    font-weight: automatic;
+    font-size: 70px;
+}
+.image{
+ width: 500px; 
+ margin: auto;
+ display: block;
+}
+.introduction{
+     font-style: italic;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.heading{
+    color:#FFB6C1;
+    text-align: center;
+    font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+h2.heading{
+    font-size: 40px;
+}
+.text{
+    text-align: center;
+    font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: bold;
+}
+  
+ul, ol{
+    align-items: center
+}
